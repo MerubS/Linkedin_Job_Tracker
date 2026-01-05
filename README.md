@@ -89,6 +89,7 @@ Click the extension icon to view:
 
 ```
 linkedin-job-tracker/
+├── appScript.js         # Code for Sheets App Script
 ├── manifest.json          # Extension configuration
 ├── background.js          # Background service worker
 ├── content.js            # LinkedIn page integration
