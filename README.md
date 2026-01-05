@@ -27,7 +27,7 @@ For each job application, the extension captures:
 
 Clone or download this repository:
 ```bash
-git clone [https://github.com/yourusername/linkedin-job-tracker.git](https://github.com/MerubS/Linkedin_Job_Tracker.git)
+git clone [https://github.com/MerubS/Linkedin_Job_Tracker.git]
 ```
 
 ### 2. Load Extension in Chrome
